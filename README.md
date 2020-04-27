@@ -26,7 +26,7 @@ problem statement that could be solved by our algorithms.
  #### 1). Las Vegas
  #### 2). Las Vegas with Threading (416 POSIX Threads)
  #### 3). Monte Carlo
- #### 4). Monte Carlo with array of linked lists.
+ #### 4). Monte Carlo with array of linked lists
  
 
 
