@@ -20,7 +20,7 @@ compiler only.
 Baccarat is a game of cards which contains 8 decks. There are 416*415*414*413 possible cases in first hand
 which makes it almost impossible to be followed for patterns/predictions. To be able to even calculate the
 probabilities with a great deal of accuracy, it takes a large amount of time. Hence, it served as a suitable
-problem statement that could be solved by our algorithms. 
+problem statement that could be solved by our algorithms
 
 ### The following algorithms are implemented in these ways:
  #### 1). Las Vegas
